@@ -3,8 +3,6 @@
 
 Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadlift TBD (injury history)
 
----
-
 ## Monday — Gym FBW A (Push emphasis)
 
 | # | Exercise | Sets x Reps | Weight | Rest | Notes |
@@ -18,7 +16,6 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 | 7 | Cable Crunch | 2x12 | 25kg | 60s | |
 | 8 | Dead Hang | 2x30s | BW | 30s | Grip + shoulder decompression |
 
----
 
 ## Tuesday — Rest + Pull-ups + Mobility
 
@@ -40,7 +37,6 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 
 **Optional:** Easy cycling (coffee ride) or 5k run if you feel like it.
 
----
 
 ## Wednesday — Gym FBW B (Pull emphasis)
 
@@ -55,7 +51,6 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 | 6 | Leg Curl Sitting | 2x10 | 40kg | 60s | |
 | 7 | Hanging Knee Raise | 2x10 | BW | 60s | Progress to leg raise over time |
 
----
 
 ## Thursday — Cycling or Home Calisthenics
 
@@ -71,7 +66,6 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 | 4 | Band pull-aparts | 2x15 | Posture work |
 | 5 | Foam roller | 5 min | Upper back, quads, glutes |
 
----
 
 ## Friday — Flexible
 
@@ -80,7 +74,6 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 - Rest or light mobility
 - Whatever feels right
 
----
 
 ## Saturday — Optional
 
@@ -88,7 +81,6 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 - 5k run
 - Rest if traveling
 
----
 
 ## Sunday — Optional
 
@@ -97,7 +89,6 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 
 *Weekends are flexible — often traveling. No pressure, enjoy them.*
 
----
 
 ## Progression Rules
 
