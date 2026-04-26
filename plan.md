@@ -16,6 +16,19 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 | 7 | Cable Crunch | 2x12 | 25kg | 60s | |
 | 8 | Dead Hang | 2x30s | BW | 30s | Grip + shoulder decompression |
 
+**If no gym — Home Push Alternative (~30 min):**
+
+| # | Exercise | Sets x Reps | Notes |
+|---|----------|-------------|-------|
+| 1 | Pistol squat progression / split squats | 3x8 each leg | Hold onto frame for balance if needed |
+| 2 | Dips | 4x6-8 | Main push exercise |
+| 3 | Push-ups on bars | 4x12-15 | Decline for more difficulty |
+| 4 | Band overhead press | 3x10 | Stand on band |
+| 5 | Band lateral raises | 2x15 | Stand on band |
+| 6 | Bodyweight triceps extension | 2x12 | Skull crusher on bar |
+| 7 | Hanging knee raise | 3x12 | Core work |
+| 8 | Dead hang | 2x30s | |
+
 
 ## Tuesday — Rest + Pull-ups + Mobility
 
@@ -50,6 +63,19 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 | 6a | Standing Barbell Curl | 2x8 | 25kg | superset | |
 | 6b | Reverse Arm Extension | 2x10 | 17.5kg | 90s | |
 | 7 | Hanging Knee Raise | 2x10 | BW | 60s | Progress to leg raise over time |
+
+**If no gym — Home Pull Alternative (~30 min):**
+
+| # | Exercise | Sets x Reps | Notes |
+|---|----------|-------------|-------|
+| 1 | Pull-ups | 4x5-7 | Main exercise, overhand grip |
+| 2 | Inverted rows | 3x10-12 | Lower bar, bend knees to make easier |
+| 3 | Push-ups on bars | 3x12-15 | Grip recovery between pulls |
+| 4 | Chin-ups | 3x4-6 | Underhand, bicep focus |
+| 5 | Band curls | 2x15 | Stand on band |
+| 6 | Band face pulls | 2x15 | Anchor band high on frame |
+| 7 | Hanging knee raise | 3x12 | Core work |
+| 8 | Dead hang | 1x max | Finisher |
 
 
 ## Thursday — Cycling or Home Calisthenics (Push emphasis)
