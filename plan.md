@@ -48,7 +48,7 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 | 5 | Wall slides | 10 reps | Back flat against wall |
 | 6 | Deep squat hold | 60s | Hold onto door frame if needed |
 
-**Optional:** Easy cycling (coffee ride) or 5k run if you feel like it.
+**Alternative:** Easy cycling (coffee ride) or 5k run instead of the above.
 
 
 ## Wednesday — Gym FBW B (Pull emphasis)
