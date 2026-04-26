@@ -52,19 +52,20 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 | 7 | Hanging Knee Raise | 2x10 | BW | 60s | Progress to leg raise over time |
 
 
-## Thursday — Cycling or Home Calisthenics
+## Thursday — Cycling or Home Calisthenics (Push emphasis)
 
 **If cycling:** Group ride, 50-70km, coffee pace with some threshold efforts
 
-**If no ride:** Home calisthenics (~20 min)
+**If no ride:** Home calisthenics — push day (~20 min)
 
 | # | Exercise | Sets x Reps | Notes |
 |---|----------|-------------|-------|
-| 1 | Pull-ups | 4x5 | Stop before failure, clean reps |
-| 2 | Dips | 3x8 | Slow negative (3s down) |
-| 3 | Push-ups | 2x15 | Vary grip width each set |
-| 4 | Band pull-aparts | 2x15 | Posture work |
-| 5 | Foam roller | 5 min | Upper back, quads, glutes |
+| 1 | Dips | 4x5-8 | Main exercise. Slow negative (3s down) |
+| 2 | Push-ups on bars | 3x10-15 | Vary incline for difficulty |
+| 3 | Band overhead press | 2x10 | Stand on band, press overhead |
+| 4 | Bodyweight triceps extension | 2x10 | Skull crusher on bar at waist height |
+| 5 | Band lateral raises | 2x15 | Stand on band |
+| 6 | Foam roller | 5 min | Upper back, quads, glutes |
 
 
 ## Friday — Flexible
