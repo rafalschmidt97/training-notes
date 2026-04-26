@@ -20,7 +20,14 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 
 ---
 
-## Tuesday — Rest + Mobility (10 min)
+## Tuesday — Rest + Pull-ups + Mobility
+
+**Pull-ups (grease the groove):**
+- 5-6 sets of 4-5 reps spread throughout the day (e.g. every time you pass the bar)
+- Clean reps, no grinding. Stop well before failure.
+- Goal: build volume to progress toward 10 reps/set
+
+**Mobility (10 min, evening):**
 
 | # | Exercise | Duration | Notes |
 |---|----------|----------|-------|
