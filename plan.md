@@ -31,6 +31,8 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 | 5 | Wall slides | 10 reps | Back flat against wall |
 | 6 | Deep squat hold | 60s | Hold onto door frame if needed |
 
+**Optional:** Easy cycling (coffee ride) or 5k run if you feel like it.
+
 ---
 
 ## Wednesday — Gym FBW B (Pull emphasis)
@@ -64,25 +66,29 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 
 ---
 
-## Friday — Cycling or Rest
+## Friday — Flexible
 
 - Cycling if you didn't ride Thursday
-- Otherwise rest or light mobility
+- Home calisthenics
+- Rest or light mobility
+- Whatever feels right
 
 ---
 
 ## Saturday — Optional
 
-Pick one based on energy:
-- 5k easy run
-- Quick calisthenics session
-- Full rest if the week was heavy
+- Cycling with fiancee or group coffee ride
+- 5k run
+- Rest if traveling
 
 ---
 
-## Sunday — Rest
+## Sunday — Optional
 
-Full rest. Mobility routine if you feel like it.
+- Cycling with fiancee or group coffee ride
+- Rest if traveling
+
+*Weekends are flexible — often traveling. No pressure, enjoy them.*
 
 ---
 
