@@ -48,8 +48,8 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 |---|----------|-------------|--------|------|-------|
 | 1 | Deadlift | 3x5 | 80kg | 3 min | Start light, focus on form. Add 5kg/week if back feels good |
 | 2 | Pull-ups | 3x5 | BW | 2 min | Once you hit 3x8, add weight |
-| 3 | Incline Dumbbell Bench Press | 3x8 | 22.5kg | 90s | |
-| 4 | Lat Pulldown | 2x10 | 50kg | 90s | |
+| 3 | Chin-ups | 2x6 | BW | 90s | Underhand grip, bicep emphasis |
+| 4 | Incline Dumbbell Bench Press | 3x8 | 22.5kg | 90s | |
 | 5a | Standing Barbell Curl | 2x8 | 25kg | superset | |
 | 5b | Reverse Arm Extension | 2x10 | 17.5kg | 90s | |
 | 6 | Leg Curl Sitting | 2x10 | 40kg | 60s | |
