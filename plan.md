@@ -97,25 +97,41 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 
 ## Friday — Flexible
 
-- Cycling if you didn't ride Thursday
-- Home calisthenics
-- Rest or light mobility
-- Whatever feels right
+Pick one based on what happened this week:
+
+**If you missed cycling on Thursday:** Cycling (group ride or solo, 50-70km)
+
+**If you cycled Thursday — Home mixed session (~25 min):**
+
+| # | Exercise | Sets x Reps | Notes |
+|---|----------|-------------|-------|
+| 1 | Pull-ups | 3x5 | Light, clean reps. Skip if grip is fried from the week |
+| 2 | Dips | 3x6 | Light, focus on form |
+| 3 | Inverted rows | 2x12 | Lower bar |
+| 4 | Push-ups on bars | 2x15 | Easy pace |
+| 5 | Band face pulls | 2x15 | Shoulder health |
+| 6 | Mobility routine | 10 min | Same as Tuesday |
+
+**If you need rest:** Rest. No guilt.
 
 
 ## Saturday — Optional
 
-- Cycling with fiancee or group coffee ride
-- 5k run
-- Rest if traveling
+**If active:** Cycling with fiancee or group coffee ride (easy pace, social). Or 5k easy run.
+
+**If at home:** Pull-ups GTG throughout the day (like Tuesday) + mobility routine.
+
+**If traveling:** Rest or 5k run if you find time.
 
 
-## Sunday — Optional
+## Sunday — Rest
 
-- Cycling with fiancee or group coffee ride
-- Rest if traveling
+Full rest day. If you feel like moving:
+- Mobility routine (10 min)
+- Easy walk with fiancee
+- Nothing structured
 
-*Weekends are flexible — often traveling. No pressure, enjoy them.*
+*Weekends are flexible — often traveling. The priority is Mon/Wed gym. Everything else is a bonus.*
 
 
 ## Progression Rules
