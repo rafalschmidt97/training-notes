@@ -72,10 +72,11 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 | 2 | Inverted rows | 3x10-12 | Lower bar, bend knees to make easier |
 | 3 | Push-ups on bars | 3x12-15 | Grip recovery between pulls |
 | 4 | Chin-ups | 3x4-6 | Underhand, bicep focus |
-| 5 | Band curls | 2x15 | Stand on band |
-| 6 | Band face pulls | 2x15 | Anchor band high on frame |
-| 7 | Hanging knee raise | 3x12 | Core work |
-| 8 | Dead hang | 1x max | Finisher |
+| 5 | Single-leg deadlift / band hip hinge | 3x8 each leg | Posterior chain — replaces gym deadlift |
+| 6 | Band curls | 2x15 | Stand on band |
+| 7 | Band face pulls | 2x15 | Anchor band high on frame |
+| 8 | Hanging knee raise | 3x12 | Core work |
+| 9 | Dead hang | 1x max | Finisher |
 
 
 ## Thursday — Cycling or Home Calisthenics (Push emphasis)
@@ -123,7 +124,7 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 
 **Pull-ups:** Track total reps. Once 3x8 BW is easy, add weight (belt or backpack). Same for dips.
 
-**Deadlift:** Start at 80kg, progress 5kg/week. If your back ever feels off, drop weight immediately and reassess. No ego lifting.
+**Deadlift:** Start at 80kg, progress 2.5kg/week. If your back ever feels off, drop weight immediately and reassess. No ego lifting.
 
 **Isolation (curls, raises, extensions):** Add weight when you can complete all reps with good form for 2 sessions in a row.
 
