@@ -48,7 +48,11 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 
 ---
 
-## Thursday — Home Calisthenics (~20 min)
+## Thursday — Cycling or Home Calisthenics
+
+**If cycling:** Group ride, 50-70km, coffee pace with some threshold efforts
+
+**If no ride:** Home calisthenics (~20 min)
 
 | # | Exercise | Sets x Reps | Notes |
 |---|----------|-------------|-------|
@@ -60,10 +64,10 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 
 ---
 
-## Friday — Cycling
+## Friday — Cycling or Rest
 
-- Group ride, 50-70km, coffee pace with some threshold efforts
-- If no ride available: repeat Thursday's calisthenics session
+- Cycling if you didn't ride Thursday
+- Otherwise rest or light mobility
 
 ---
 
