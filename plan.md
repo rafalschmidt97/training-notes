@@ -37,7 +37,7 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 
 | # | Exercise | Sets x Reps | Weight | Rest | Notes |
 |---|----------|-------------|--------|------|-------|
-| 1 | Romanian Deadlift (RDL) | 3x8 | 60kg | 2 min | **NOT conventional** — protect back. Progress slowly, reassess in 4 weeks before switching to conventional |
+| 1 | Deadlift | 3x5 | 80kg | 3 min | Start light, focus on form. Add 5kg/week if back feels good |
 | 2 | Pull-ups | 3x5 | BW | 2 min | Once you hit 3x8, add weight |
 | 3 | Incline Dumbbell Bench Press | 3x8 | 22.5kg | 90s | |
 | 4 | Lat Pulldown | 2x10 | 50kg | 90s | |
@@ -88,11 +88,11 @@ Full rest. Mobility routine if you feel like it.
 
 ## Progression Rules
 
-**Compounds (squat, RDL, bench):** Add 2.5kg every 1-2 weeks. If you fail a weight, hold it for an extra week and try to add 1 rep per set.
+**Compounds (squat, deadlift, bench):** Add 2.5-5kg every 1-2 weeks. If you fail a weight, hold it for an extra week and try to add 1 rep per set.
 
 **Pull-ups:** Track total reps. Once 3x8 BW is easy, add weight (belt or backpack). Same for dips.
 
-**Deadlift path:** RDL for 4 weeks → if back feels good, test light conventional (60kg) → progress from there. No rush.
+**Deadlift:** Start at 80kg, progress 5kg/week. If your back ever feels off, drop weight immediately and reassess. No ego lifting.
 
 **Isolation (curls, raises, extensions):** Add weight when you can complete all reps with good form for 2 sessions in a row.
 
