@@ -89,8 +89,7 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 | 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Horizontal pull. Alt: single arm dumbbell row |
 | 5a | Dumbbell Lateral Raise | 2x10 | 8kg | superset | |
 | 5b | Incline Dumbbell Curl | 2x10 | 10kg | 90s | |
-| 6a | Catana Extension | 2x10 | 20kg | superset | Tricep isolation |
-| 6b | Chin-ups | 2(+1)x6 | BW | 90s | Underhand, bicep emphasis |
+| 6 | Catana Extension | 2x10 | 20kg | 90s | Tricep isolation |
 | 7 | Hanging Knee Raise | 2x8 | BW | 60s | Progress to leg raise over time |
 | * | Leg Curl Sitting (optional) | 2x8 | 40kg | 60s | Do if time allows |
 
