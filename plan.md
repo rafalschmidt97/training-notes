@@ -85,7 +85,7 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 |---|----------|-------------|--------|------|-------|
 | 1 | Deadlift | 2(+1)x5 | 80kg | 3 min | Start light, focus on form. Add 2.5kg/week if back feels good |
 | 2 | Pull-ups | 2(+1)x5 | BW | 2 min | Progress toward 2x10, then add weight |
-| 3 | Hammer Chest Press | 2(+1)x8 | 30kg | 90s | Machine press |
+| 3 | Incline Dumbbell Bench Press | 2(+1)x8 | 22.5kg | 90s | Upper chest, different angle from Monday |
 | 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Horizontal pull |
 | 5a | Cable Lateral Raise | 2x10 | 5kg | superset | |
 | 5b | Incline Dumbbell Curl | 2x10 | 10kg | 90s | |
