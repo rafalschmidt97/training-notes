@@ -2,7 +2,7 @@
 Saved: 2026-04-26 14:13
 
 ## Profile
-- Age: ~29, Male, 183cm, 79-80kg
+- Age: ~29, Male, 183cm, 80kg
 - Desk job (programmer, 8-10h/day)
 - Wedding: July 10, 2027 (~14 months away)
 

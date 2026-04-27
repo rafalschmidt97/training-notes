@@ -1,7 +1,7 @@
 # Training Plan — Wedding Prep Phase 1 (Rebuild)
 *Created: April 26, 2026 | Review: June 2026*
 
-Current levels: Bench ~70kg x7, Squat ~80kg x6, Pull-ups 7 BW, DB Shoulder Press 20kg x8, Deadlift TBD (injury history)
+Current levels: Bench ~70kg x7, Squat ~80kg x6, Pull-ups 7 BW, DB Shoulder Press 20kg x8, Deadlift TBD (low back injury history)
 
 ## Gym Warmup (~8 min)
 
