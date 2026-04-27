@@ -37,8 +37,8 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 | # | Exercise | Sets x Reps | Weight | Rest | Notes |
 |---|----------|-------------|--------|------|-------|
 | 1 | Back Squat | 3x6 | 80kg | 3 min | Add 2.5kg/week |
-| 2 | Dumbbell Bench Press | 3x8 | 30kg | 2 min | Bar ~70kg equivalent |
-| 3 | Lat Pull Down | 3x8 | 50kg | 90s | Vertical pull |
+| 2 | Lat Pull Down | 3x8 | 50kg | 90s | Vertical pull |
+| 3 | Dumbbell Bench Press | 3x8 | 30kg | 2 min | Bar ~70kg equivalent |
 | 4 | Seated Cable Row | 3x8 | 45kg | 90s | Squeeze at top, posture work |
 | 5 | Dumbbell Shoulder Press | 3x8 | 20kg | 90s | |
 | 6a | Dumbbell Lateral Raise | 3x10 | 8kg | superset | |
