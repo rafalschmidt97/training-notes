@@ -37,10 +37,10 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 | 2 | Lat Pull Down | 2(+1)x8 | 50kg | 90s | Vertical pull |
 | 3 | Dumbbell Bench Press | 2(+1)x6 | 30kg | 2 min | Bar ~70kg equivalent |
 | 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Squeeze at top, posture work |
-| 5a | Dumbbell Lateral Raise | 2(+1)x10 | 8kg | superset | |
-| 5b | Standing Barbell Curl | 2(+1)x6 | 25kg | 90s | |
-| 6 | Cable Crunch | 2(+1)x8 | 25kg | 60s | |
-| * | Leg Extension (optional) | 2(+1)x8 | 40kg | 60s | Do if time allows |
+| 5a | Dumbbell Lateral Raise | 2x10 | 8kg | superset | |
+| 5b | Standing Barbell Curl | 2x6 | 25kg | 90s | |
+| 6 | Cable Crunch | 2x8 | 25kg | 60s | |
+| * | Leg Extension (optional) | 2x8 | 40kg | 60s | Do if time allows |
 
 2(+1) = 2 mandatory sets + 1 optional if you have energy/time. No overhead press — front delts are covered by bench pressing. If lateral raise equipment is busy, substitute Dumbbell Shoulder Press 2(+1)x8 @ 20kg.
 
@@ -87,12 +87,12 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 | 2 | Pull-ups | 2(+1)x5 | BW | 2 min | Progress toward 2x10, then add weight |
 | 3 | Hammer Chest Press | 2(+1)x8 | 30kg | 90s | Machine press |
 | 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Horizontal pull |
-| 5a | Cable Lateral Raise | 2(+1)x10 | 5kg | superset | |
-| 5b | Incline Dumbbell Curl | 2(+1)x10 | 10kg | 90s | |
-| 6a | Catana Extension | 2(+1)x10 | 20kg | superset | Tricep isolation |
+| 5a | Cable Lateral Raise | 2x10 | 5kg | superset | |
+| 5b | Incline Dumbbell Curl | 2x10 | 10kg | 90s | |
+| 6a | Catana Extension | 2x10 | 20kg | superset | Tricep isolation |
 | 6b | Chin-ups | 2(+1)x6 | BW | 90s | Underhand, bicep emphasis |
-| 7 | Hanging Knee Raise | 2(+1)x8 | BW | 60s | Progress to leg raise over time |
-| * | Leg Curl Sitting (optional) | 2(+1)x8 | 40kg | 60s | Do if time allows |
+| 7 | Hanging Knee Raise | 2x8 | BW | 60s | Progress to leg raise over time |
+| * | Leg Curl Sitting (optional) | 2x8 | 40kg | 60s | Do if time allows |
 
 2(+1) = 2 mandatory sets + 1 optional if you have energy/time.
 
