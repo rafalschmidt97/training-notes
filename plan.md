@@ -48,13 +48,13 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly. Applie
 
 | # | Exercise | Sets x Reps | Notes |
 |---|----------|-------------|-------|
-| 1 | Pistol squat progression / split squats | 3x8 each leg | Hold onto frame for balance if needed |
-| 2 | Dips | 3x6-8 | Main push exercise |
-| 3 | Chin-ups | 3x4-6 | Need some pulling — gym day has lat pulldown + row |
-| 4 | Push-ups on bars | 3x12-15 | Decline for more difficulty |
-| 5 | Band lateral raises | 2x15 | Stand on band |
-| 6 | Bodyweight triceps extension | 2x12 | Skull crusher on bar |
-| 7 | Hanging knee raise | 2x12 | Core work |
+| 1 | Pistol squat progression / split squats | 3x8 each leg | Alt: Bulgarian split squats, jump squats |
+| 2 | Dips | 3x6-8 | Alt: diamond push-ups, bench dips |
+| 3 | Chin-ups | 3x4-6 | Alt: band-assisted chin-ups, inverted rows (underhand) |
+| 4 | Push-ups on bars | 3x12-15 | Alt: decline push-ups, archer push-ups |
+| 5 | Band lateral raises | 2x15 | Alt: water bottle lateral raises |
+| 6 | Bodyweight triceps extension | 2x12 | Alt: close-grip push-ups |
+| 7 | Hanging knee raise | 2x12 | Alt: lying leg raises, plank |
 
 
 ## Tuesday — Rest + Pull-ups + Mobility
@@ -98,14 +98,14 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly. Applie
 
 | # | Exercise | Sets x Reps | Notes |
 |---|----------|-------------|-------|
-| 1 | Pull-ups | 4x5-7 | Main exercise, overhand grip |
-| 2 | Inverted rows | 3x10-12 | Lower bar, bend knees to make easier |
-| 3 | Push-ups on bars | 3x12-15 | Grip recovery between pulls |
-| 4 | Chin-ups | 3x4-6 | Underhand, bicep focus |
-| 5 | Single-leg deadlift / band hip hinge | 3x8 each leg | Posterior chain — replaces gym deadlift |
-| 6 | Band curls | 2x15 | Stand on band |
-| 7 | Band face pulls | 2x15 | Anchor band high on frame |
-| 8 | Hanging knee raise | 2x12 | Core work |
+| 1 | Pull-ups | 4x5-7 | Alt: band-assisted pull-ups, lat pull with band over door |
+| 2 | Inverted rows | 3x10-12 | Alt: band rows, towel rows on door |
+| 3 | Push-ups on bars | 3x12-15 | Grip recovery between pulls. Alt: regular push-ups |
+| 4 | Chin-ups | 3x4-6 | Alt: band-assisted chin-ups, negative-only chin-ups |
+| 5 | Single-leg deadlift / band hip hinge | 3x8 each leg | Alt: glute bridges, Nordic curl negatives |
+| 6 | Band curls | 2x15 | Alt: towel curls (isometric) |
+| 7 | Band face pulls | 2x15 | Alt: prone Y-T-W raises on floor |
+| 8 | Hanging knee raise | 2x12 | Alt: lying leg raises, dead bug |
 | 9 | Dead hang | 1x max | Finisher |
 
 
@@ -117,10 +117,10 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly. Applie
 
 | # | Exercise | Sets x Reps | Notes |
 |---|----------|-------------|-------|
-| 1 | Dips | 4x5-8 | Main exercise. Slow negative (3s down) |
-| 2 | Push-ups on bars | 3x10-15 | Vary incline for difficulty |
-| 3 | Bodyweight triceps extension | 2x10 | Skull crusher on bar at waist height |
-| 4 | Band lateral raises | 2x15 | Stand on band |
+| 1 | Dips | 4x5-8 | Slow negative (3s down). Alt: bench dips, diamond push-ups |
+| 2 | Push-ups on bars | 3x10-15 | Alt: archer push-ups, decline push-ups |
+| 3 | Bodyweight triceps extension | 2x10 | Alt: close-grip push-ups |
+| 4 | Band lateral raises | 2x15 | Alt: water bottle lateral raises |
 | 5 | Foam roller | 5 min | Upper back, quads, glutes |
 
 
@@ -134,11 +134,11 @@ Pick one based on what happened this week:
 
 | # | Exercise | Sets x Reps | Notes |
 |---|----------|-------------|-------|
-| 1 | Pull-ups | 3x5 | Light, clean reps. Skip if grip is fried from the week |
-| 2 | Dips | 3x6 | Light, focus on form |
-| 3 | Inverted rows | 2x12 | Lower bar |
+| 1 | Pull-ups | 3x5 | Light, clean reps. Alt: band-assisted |
+| 2 | Dips | 3x6 | Light. Alt: push-ups |
+| 3 | Inverted rows | 2x12 | Alt: band rows |
 | 4 | Push-ups on bars | 2x15 | Easy pace |
-| 5 | Band face pulls | 2x15 | Shoulder health |
+| 5 | Band face pulls | 2x15 | Alt: prone Y-T-W raises |
 | 6 | Mobility routine | 10 min | Same as Tuesday |
 
 **If you need rest:** Rest. No guilt.
