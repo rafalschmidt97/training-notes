@@ -27,7 +27,7 @@ Do NOT static stretch before lifting. After training only.
 | 2 | Doorway pec stretch | 30s each side | Opens chest after pressing |
 | 3 | Couch stretch (hip flexor) | 30s each leg | Counteracts desk sitting |
 
-Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
+Skip if rushed. The Tuesday mobility routine covers this more thoroughly. Applies to home workouts too.
 
 ## Monday — Gym FBW A
 
@@ -49,13 +49,12 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 | # | Exercise | Sets x Reps | Notes |
 |---|----------|-------------|-------|
 | 1 | Pistol squat progression / split squats | 3x8 each leg | Hold onto frame for balance if needed |
-| 2 | Dips | 4x6-8 | Main push exercise |
-| 3 | Push-ups on bars | 4x12-15 | Decline for more difficulty |
-| 4 | Band overhead press | 3x10 | Stand on band |
+| 2 | Dips | 3x6-8 | Main push exercise |
+| 3 | Chin-ups | 3x4-6 | Need some pulling — gym day has lat pulldown + row |
+| 4 | Push-ups on bars | 3x12-15 | Decline for more difficulty |
 | 5 | Band lateral raises | 2x15 | Stand on band |
 | 6 | Bodyweight triceps extension | 2x12 | Skull crusher on bar |
-| 7 | Hanging knee raise | 3x12 | Core work |
-| 8 | Dead hang | 2x30s | |
+| 7 | Hanging knee raise | 2x12 | Core work |
 
 
 ## Tuesday — Rest + Pull-ups + Mobility
@@ -106,7 +105,7 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 | 5 | Single-leg deadlift / band hip hinge | 3x8 each leg | Posterior chain — replaces gym deadlift |
 | 6 | Band curls | 2x15 | Stand on band |
 | 7 | Band face pulls | 2x15 | Anchor band high on frame |
-| 8 | Hanging knee raise | 3x12 | Core work |
+| 8 | Hanging knee raise | 2x12 | Core work |
 | 9 | Dead hang | 1x max | Finisher |
 
 
@@ -120,10 +119,9 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 |---|----------|-------------|-------|
 | 1 | Dips | 4x5-8 | Main exercise. Slow negative (3s down) |
 | 2 | Push-ups on bars | 3x10-15 | Vary incline for difficulty |
-| 3 | Band overhead press | 2x10 | Stand on band, press overhead |
-| 4 | Bodyweight triceps extension | 2x10 | Skull crusher on bar at waist height |
-| 5 | Band lateral raises | 2x15 | Stand on band |
-| 6 | Foam roller | 5 min | Upper back, quads, glutes |
+| 3 | Bodyweight triceps extension | 2x10 | Skull crusher on bar at waist height |
+| 4 | Band lateral raises | 2x15 | Stand on band |
+| 5 | Foam roller | 5 min | Upper back, quads, glutes |
 
 
 ## Friday — Flexible
