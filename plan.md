@@ -5,16 +5,13 @@ Current levels: Bench ~70kg x7, Squat ~80kg x6, Pull-ups 7 BW, DB Shoulder Press
 
 ## Gym Warmup (~8 min)
 
-1. **3-5 min light cardio** — bike, rowing machine, or jumping jacks. Just get warm.
-2. **Band pull-aparts** — 15 reps. Warms up shoulders and upper back.
-3. **Warmup sets for the first compound exercise:**
-   - Empty bar (or light weight) x 8
-   - ~50% working weight x 5
-   - ~75% working weight x 3
-   - Then start working sets
-
-Example for squat day (working weight 80kg): bar x 8, 40kg x 5, 60kg x 3, then 80kg working sets.
-Example for deadlift day (working weight 80kg): 40kg x 5, 60kg x 3, then 80kg working sets.
+| # | Exercise | Duration/Reps | Notes |
+|---|----------|---------------|-------|
+| 1 | Light cardio (bike, rowing, or jumping jacks) | 3-5 min | Just get warm |
+| 2 | Band pull-aparts | 15 reps | Warms up shoulders and upper back |
+| 3 | First compound — empty bar / light weight | x 8 | e.g. bar x 8 for squat day |
+| 4 | First compound — ~50% working weight | x 5 | e.g. 40kg for 80kg squat |
+| 5 | First compound — ~75% working weight | x 3 | e.g. 60kg for 80kg squat |
 
 No warmup sets needed for isolation exercises (curls, raises, extensions) — the compounds already warmed you up.
 
