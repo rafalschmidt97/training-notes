@@ -33,16 +33,16 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 
 | # | Exercise | Sets x Reps | Weight | Rest | Notes |
 |---|----------|-------------|--------|------|-------|
-| 1 | Back Squat | 2(+1)x5 | 80kg | 3 min | Add 2.5kg/week |
+| 1 | Back Squat | 2(+1)x5 | 80kg | 3 min | Add 2.5kg/week. Alt: leg press |
 | 2 | Lat Pull Down | 2(+1)x8 | 50kg | 90s | Vertical pull. Alt: pull-ups or chin-ups |
-| 3 | Dumbbell Bench Press | 2(+1)x6 | 30kg | 2 min | Bar ~70kg equivalent |
-| 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Squeeze at top, posture work |
-| 5a | Cable Lateral Raise | 2x10 | 5kg | superset | |
-| 5b | Standing Barbell Curl | 2x6 | 25kg | 90s | |
-| 6 | Cable Crunch | 2x8 | 25kg | 60s | |
+| 3 | Dumbbell Bench Press | 2(+1)x6 | 30kg | 2 min | Alt: barbell flat bench |
+| 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Alt: single arm dumbbell row |
+| 5a | Cable Lateral Raise | 2x10 | 5kg | superset | Alt: dumbbell lateral raise |
+| 5b | Standing Barbell Curl | 2x6 | 25kg | 90s | Alt: dumbbell curl |
+| 6 | Cable Crunch | 2x8 | 25kg | 60s | Alt: hanging knee raise |
 | * | Leg Extension (optional) | 2x8 | 40kg | 60s | Do if time allows |
 
-2(+1) = 2 mandatory sets + 1 optional if you have energy/time. No overhead press — front delts are covered by bench pressing. If lateral raise equipment is busy, substitute Dumbbell Shoulder Press 2(+1)x8 @ 20kg.
+2(+1) = 2 mandatory sets + 1 optional if you have energy/time. No overhead press — front delts are covered by bench pressing. If both cable and dumbbells are busy for lateral raise, substitute Dumbbell Shoulder Press 2(+1)x8 @ 20kg.
 
 **If no gym — Home Push Alternative (~30 min):**
 
@@ -83,14 +83,14 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 
 | # | Exercise | Sets x Reps | Weight | Rest | Notes |
 |---|----------|-------------|--------|------|-------|
-| 1 | Deadlift | 2(+1)x5 | 80kg | 3 min | Start light, focus on form. Add 2.5kg/week if back feels good |
-| 2 | Pull-ups | 2(+1)x5 | BW | 2 min | Progress toward 2x10, then add weight |
-| 3 | Incline Barbell Bench Press | 2(+1)x8 | 50kg | 90s | Different stimulus from Mon's DB flat. Alt: flat barbell or incline DB |
-| 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Horizontal pull. Alt: single arm dumbbell row |
-| 5a | Dumbbell Lateral Raise | 2x10 | 8kg | superset | |
-| 5b | Incline Dumbbell Curl | 2x10 | 10kg | 90s | |
-| 6 | Catana Extension | 2x10 | 20kg | 90s | Tricep isolation |
-| 7 | Hanging Knee Raise | 2x8 | BW | 60s | Progress to leg raise over time |
+| 1 | Deadlift | 2(+1)x5 | 80kg | 3 min | Add 2.5kg/week if back feels good |
+| 2 | Pull-ups | 2(+1)x5 | BW | 2 min | Progress toward 2x10. Alt: lat pull down |
+| 3 | Incline Barbell Bench Press | 2(+1)x8 | 50kg | 90s | Alt: flat barbell or incline DB |
+| 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Alt: single arm dumbbell row |
+| 5a | Dumbbell Lateral Raise | 2x10 | 8kg | superset | Alt: cable lateral raise |
+| 5b | Incline Dumbbell Curl | 2x10 | 10kg | 90s | Alt: standing barbell curl |
+| 6 | Catana Extension | 2x10 | 20kg | 90s | Tricep. Alt: rope pushdown |
+| 7 | Hanging Knee Raise | 2x8 | BW | 60s | Alt: cable crunch |
 | * | Leg Curl Sitting (optional) | 2x8 | 40kg | 60s | Do if time allows |
 
 2(+1) = 2 mandatory sets + 1 optional if you have energy/time.
