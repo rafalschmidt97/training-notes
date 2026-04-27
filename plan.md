@@ -37,11 +37,12 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 | 2 | Lat Pull Down | 3x8 | 50kg | 90s | Vertical pull |
 | 3 | Dumbbell Bench Press | 3x8 | 30kg | 2 min | Bar ~70kg equivalent |
 | 4 | Seated Cable Row | 3x8 | 45kg | 90s | Squeeze at top, posture work |
-| 5 | Dumbbell Shoulder Press | 3x8 | 20kg | 90s | |
-| 6a | Cable Lateral Raise | 3x10 | 5kg | superset | |
-| 6b | Standing Barbell Curl | 3x6 | 25kg | 90s | |
-| 7 | Cable Crunch | 3x8 | 25kg | 60s | |
+| 5a | Dumbbell Lateral Raise | 3x10 | 8kg | superset | |
+| 5b | Standing Barbell Curl | 3x6 | 25kg | 90s | |
+| 6 | Cable Crunch | 3x8 | 25kg | 60s | |
 | * | Leg Extension (optional) | 3x8 | 40kg | 60s | Do if time allows |
+
+No overhead press — front delts are covered by bench pressing. If lateral raise equipment is busy, substitute Dumbbell Shoulder Press 3x8 @ 20kg.
 
 **If no gym — Home Push Alternative (~30 min):**
 
@@ -86,7 +87,7 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 | 2 | Pull-ups | 3x5 | BW | 2 min | Once you hit 3x8, add weight |
 | 3 | Hammer Chest Press | 3x8 | 30kg | 90s | Machine press |
 | 4 | Seated Cable Row | 3x8 | 45kg | 90s | Horizontal pull |
-| 5a | Dumbbell Lateral Raise | 3x10 | 8kg | superset | |
+| 5a | Cable Lateral Raise | 3x10 | 5kg | superset | |
 | 5b | Incline Dumbbell Curl | 3x10 | 10kg | 90s | |
 | 6a | Catana Extension | 3x10 | 20kg | superset | Tricep isolation |
 | 6b | Chin-ups | 3x6 | BW | 90s | Underhand, bicep emphasis |
