@@ -18,6 +18,8 @@ Example for deadlift day (working weight 80kg): 40kg x 5, 60kg x 3, then 80kg wo
 
 No warmup sets needed for isolation exercises (curls, raises, extensions) — the compounds already warmed you up.
 
+**Home calisthenics warmup (~3 min):** 10 arm circles each direction, 10 wrist circles, band pull-aparts x15, then 1 easy set of your first exercise as warmup.
+
 ## Post-Training Stretch (~3 min)
 
 Do NOT static stretch before lifting. After training only.
