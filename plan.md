@@ -1,20 +1,48 @@
 # Training Plan — Wedding Prep Phase 1 (Rebuild)
 *Created: April 26, 2026 | Review: June 2026*
 
-Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadlift TBD (injury history)
+Current levels: Bench ~70kg x7, Squat ~80kg x6, Pull-ups 7 BW, DB Shoulder Press 20kg x8, Deadlift TBD (injury history)
 
-## Monday — Gym FBW A (Push emphasis)
+## Gym Warmup (~8 min)
+
+1. **3-5 min light cardio** — bike, rowing machine, or jumping jacks. Just get warm.
+2. **Band pull-aparts** — 15 reps. Warms up shoulders and upper back.
+3. **Warmup sets for the first compound exercise:**
+   - Empty bar (or light weight) x 8
+   - ~50% working weight x 5
+   - ~75% working weight x 3
+   - Then start working sets
+
+Example for squat day (working weight 80kg): bar x 8, 40kg x 5, 60kg x 3, then 80kg working sets.
+Example for deadlift day (working weight 80kg): 40kg x 5, 60kg x 3, then 80kg working sets.
+
+No warmup sets needed for isolation exercises (curls, raises, extensions) — the compounds already warmed you up.
+
+## Post-Training Stretch (~3 min)
+
+Do NOT static stretch before lifting. After training only.
+
+| # | Stretch | Duration | Why |
+|---|---------|----------|-----|
+| 1 | Dead hang from bar | 30s | Shoulder decompression, grip |
+| 2 | Doorway pec stretch | 30s each side | Opens chest after pressing |
+| 3 | Couch stretch (hip flexor) | 30s each leg | Counteracts desk sitting |
+
+Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
+
+## Monday — Gym FBW A
 
 | # | Exercise | Sets x Reps | Weight | Rest | Notes |
 |---|----------|-------------|--------|------|-------|
-| 1 | Back Squat | 3x6 | 70kg | 3 min | Add 2.5kg/week |
-| 2 | Dumbbell Bench Press | 3x8 | 27.5kg | 2 min | |
-| 3 | Seated Cable Row | 3x10 | 40kg | 90s | Squeeze at top, posture work |
-| 4 | Dumbbell Shoulder Press | 2x8 | 15kg | 90s | |
-| 5 | Dumbbell Lateral Raise | 2x12 | 7kg | 60s | |
-| 6 | Leg Extension | 2x10 | 40kg | 60s | |
-| 7 | Cable Crunch | 2x12 | 25kg | 60s | |
-| 8 | Dead Hang | 2x30s | BW | 30s | Grip + shoulder decompression |
+| 1 | Back Squat | 3x6 | 80kg | 3 min | Add 2.5kg/week |
+| 2 | Dumbbell Bench Press | 3x8 | 30kg | 2 min | Bar ~70kg equivalent |
+| 3 | Lat Pull Down | 3x8 | 50kg | 90s | Vertical pull |
+| 4 | Seated Cable Row | 3x8 | 45kg | 90s | Squeeze at top, posture work |
+| 5 | Dumbbell Shoulder Press | 3x8 | 20kg | 90s | |
+| 6a | Dumbbell Lateral Raise | 3x10 | 8kg | superset | |
+| 6b | Standing Barbell Curl | 3x6 | 25kg | 90s | |
+| 7 | Cable Crunch | 3x8 | 25kg | 60s | |
+| * | Leg Extension (optional) | 3x8 | 40kg | 60s | Do if time allows |
 
 **If no gym — Home Push Alternative (~30 min):**
 
@@ -51,18 +79,20 @@ Current levels: Bench ~70kg x5, Squat ~80kg x5, Pull-ups 7 BW, Curl ~30kg, Deadl
 **Alternative:** Easy cycling (coffee ride) or 5k run instead of the above.
 
 
-## Wednesday — Gym FBW B (Pull emphasis)
+## Wednesday — Gym FBW B
 
 | # | Exercise | Sets x Reps | Weight | Rest | Notes |
 |---|----------|-------------|--------|------|-------|
-| 1 | Deadlift | 3x5 | 80kg | 3 min | Start light, focus on form. Add 5kg/week if back feels good |
+| 1 | Deadlift | 3x5 | 80kg | 3 min | Start light, focus on form. Add 2.5kg/week if back feels good |
 | 2 | Pull-ups | 3x5 | BW | 2 min | Once you hit 3x8, add weight |
-| 3 | Incline Dumbbell Bench Press | 3x8 | 22.5kg | 90s | Grip recovers while pressing |
-| 4 | Chin-ups | 2x6 | BW | 90s | Underhand grip, bicep emphasis. Grip is fresh again |
-| 5 | Leg Curl Sitting | 2x10 | 40kg | 60s | |
-| 6a | Standing Barbell Curl | 2x8 | 25kg | superset | |
-| 6b | Reverse Arm Extension | 2x10 | 17.5kg | 90s | |
-| 7 | Hanging Knee Raise | 2x10 | BW | 60s | Progress to leg raise over time |
+| 3 | Hammer Chest Press | 3x8 | 30kg | 90s | Machine press |
+| 4 | Seated Cable Row | 3x8 | 45kg | 90s | Horizontal pull |
+| 5a | Cable Lateral Raise | 3x10 | 5kg | superset | |
+| 5b | Incline Dumbbell Curl | 3x10 | 10kg | 90s | |
+| 6a | Catana Extension | 3x10 | 20kg | superset | Tricep isolation |
+| 6b | Chin-ups | 3x6 | BW | 90s | Underhand, bicep emphasis |
+| 7 | Hanging Knee Raise | 3x10 | BW | 60s | Progress to leg raise over time |
+| * | Leg Curl Sitting (optional) | 3x8 | 40kg | 60s | Do if time allows |
 
 **If no gym — Home Pull Alternative (~30 min):**
 
