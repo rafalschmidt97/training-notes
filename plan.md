@@ -37,7 +37,7 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 | 2 | Lat Pull Down | 2(+1)x8 | 50kg | 90s | Vertical pull |
 | 3 | Dumbbell Bench Press | 2(+1)x6 | 30kg | 2 min | Bar ~70kg equivalent |
 | 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Squeeze at top, posture work |
-| 5a | Dumbbell Lateral Raise | 2x10 | 8kg | superset | |
+| 5a | Cable Lateral Raise | 2x10 | 5kg | superset | |
 | 5b | Standing Barbell Curl | 2x6 | 25kg | 90s | |
 | 6 | Cable Crunch | 2x8 | 25kg | 60s | |
 | * | Leg Extension (optional) | 2x8 | 40kg | 60s | Do if time allows |
@@ -87,7 +87,7 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly.
 | 2 | Pull-ups | 2(+1)x5 | BW | 2 min | Progress toward 2x10, then add weight |
 | 3 | Incline Dumbbell Bench Press | 2(+1)x8 | 22.5kg | 90s | Upper chest, different angle from Monday |
 | 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Horizontal pull |
-| 5a | Cable Lateral Raise | 2x10 | 5kg | superset | |
+| 5a | Dumbbell Lateral Raise | 2x10 | 8kg | superset | |
 | 5b | Incline Dumbbell Curl | 2x10 | 10kg | 90s | |
 | 6a | Catana Extension | 2x10 | 20kg | superset | Tricep isolation |
 | 6b | Chin-ups | 2(+1)x6 | BW | 90s | Underhand, bicep emphasis |
