@@ -85,7 +85,7 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly. Applie
 | 1 | Deadlift | 2(+1)x5 | 100kg | 3 min | Add 2.5kg/week if back feels good |
 | 2 | Pull-ups | 2(+1)x5 | BW | 2 min | Progress toward 2x10. Alt: lat pull down |
 | 3 | Incline Barbell Bench Press | 2(+1)x8 | 50kg | 90s | Alt: flat barbell or incline DB |
-| 4 | Seated Row Machine (two-arm) | 2(+1)x8 | 27.5kg | 90s | Alt: single arm dumbbell row |
+| 4 | Seated Cable Row | 2(+1)x8 | 27.5kg | 90s | Alt: single arm dumbbell row |
 | 5a | Dumbbell Lateral Raise | 2x10 | 8kg | superset | Alt: cable lateral raise |
 | 5b | Incline Dumbbell Curl | 2x10 | 10kg | 90s | Alt: standing barbell curl |
 | 6 | Catana Extension | 2x10 | 17.5kg | 90s | Tricep. Alt: rope pushdown |
