@@ -1,7 +1,7 @@
 # Training Plan — Wedding Prep Phase 1 (Rebuild)
 *Created: April 26, 2026 | Review: June 2026*
 
-Current levels: Bench ~70kg x7, Squat ~80kg x6, Pull-ups 7 BW, DB Shoulder Press 20kg x8, Deadlift TBD (low back injury history)
+Current levels: Bench ~70kg x7, Squat ~80kg x6, Pull-ups 7 BW, DB Shoulder Press 20kg x8, Deadlift 100kg x5 (low back injury history)
 
 ## Gym Warmup (~8 min)
 
@@ -82,13 +82,13 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly. Applie
 
 | # | Exercise | Sets x Reps | Weight | Rest | Notes |
 |---|----------|-------------|--------|------|-------|
-| 1 | Deadlift | 2(+1)x5 | 80kg | 3 min | Add 2.5kg/week if back feels good |
+| 1 | Deadlift | 2(+1)x5 | 100kg | 3 min | Add 2.5kg/week if back feels good |
 | 2 | Pull-ups | 2(+1)x5 | BW | 2 min | Progress toward 2x10. Alt: lat pull down |
 | 3 | Incline Barbell Bench Press | 2(+1)x8 | 50kg | 90s | Alt: flat barbell or incline DB |
-| 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Alt: single arm dumbbell row |
+| 4 | Seated Row Machine (two-arm) | 2(+1)x8 | 27.5kg | 90s | Alt: single arm dumbbell row |
 | 5a | Dumbbell Lateral Raise | 2x10 | 8kg | superset | Alt: cable lateral raise |
 | 5b | Incline Dumbbell Curl | 2x10 | 10kg | 90s | Alt: standing barbell curl |
-| 6 | Catana Extension | 2x10 | 20kg | 90s | Tricep. Alt: rope pushdown |
+| 6 | Catana Extension | 2x10 | 17.5kg | 90s | Tricep. Alt: rope pushdown |
 | 7 | Hanging Knee Raise | 2x8 | BW | 60s | Alt: cable crunch |
 | * | Leg Curl Sitting (optional) | 2x8 | 40kg | 60s | Do if time allows |
 
@@ -169,7 +169,7 @@ Full rest day. If you feel like moving:
 
 **Pull-ups:** Track total reps. Once 3x8 BW is easy, add weight (belt or backpack). Same for dips.
 
-**Deadlift:** Start at 80kg, progress 2.5kg/week. If your back ever feels off, drop weight immediately and reassess. No ego lifting.
+**Deadlift:** Start at 100kg, progress 2.5kg/week. If your back ever feels off, drop weight immediately and reassess. No ego lifting.
 
 **Isolation (curls, raises, extensions):** Add weight when you can complete all reps with good form for 2 sessions in a row.
 
