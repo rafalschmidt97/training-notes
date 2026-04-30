@@ -36,7 +36,7 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly. Applie
 | 1 | Back Squat | 2(+1)x5 | 80kg | 3 min | Add 2.5kg/week. Alt: leg press |
 | 2 | Lat Pull Down | 2(+1)x8 | 50kg | 90s | Vertical pull. Alt: pull-ups or chin-ups |
 | 3 | Dumbbell Bench Press | 2(+1)x6 | 30kg | 2 min | Alt: barbell flat bench |
-| 4 | Seated Cable Row | 2(+1)x8 | 45kg | 90s | Alt: single arm dumbbell row |
+| 4 | Seated Cable Row | 2(+1)x8 | 27.5kg | 90s | Alt: single arm dumbbell row |
 | 5a | Cable Lateral Raise | 2x10 | 5kg | superset | Alt: dumbbell lateral raise |
 | 5b | Standing Barbell Curl | 2x6 | 25kg | 90s | Alt: dumbbell curl |
 | 6 | Cable Crunch | 2x8 | 25kg | 60s | Alt: hanging knee raise |
