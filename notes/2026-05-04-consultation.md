@@ -14,6 +14,12 @@ Date: 2026-05-04
 - Going for coffee ride (~50km) instead
 - Rationale: still recovering from weekend, low-intensity preferred
 
+### Recovery (today)
+- Sleep: 8h14m (bed 23:48, up 08:11) — best sleep in days
+- HRV: 62ms BALANCED (up from 50 on Saturday — strong rebound)
+- RHR: 51bpm (back down from 54 on Sunday)
+- Garmin data back — Sunday's missing data was likely a sync glitch
+
 ### Ride completed
 - 55.7km, 2h28m, avg 22.5km/h, avg HR 119bpm, avg power 82W, 28°C
 - HR well under 140 target — good easy effort, proper recovery ride
