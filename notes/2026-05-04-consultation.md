@@ -14,9 +14,15 @@ Date: 2026-05-04
 - Going for coffee ride (~50km) instead
 - Rationale: still recovering from weekend, low-intensity preferred
 
+### Ride completed
+- 55.7km, 2h28m, avg 22.5km/h, avg HR 119bpm, avg power 82W, 28°C
+- HR well under 140 target — good easy effort, proper recovery ride
+- Longer than last week's Thursday ride (46km) but much lower intensity
+
 ### Coaching notes
-- Coffee ride appropriate given recovery state — keep under 140bpm
-- Priority: proper sleep tonight, hit FBW B Wednesday
+- Coffee ride executed well — kept intensity appropriately low
+- Priority: proper sleep tonight and Tuesday, hit FBW B Wednesday
 - Try to fit FBW A in Thu/Fri so both splits happen this week
 - FBW A hasn't been done in 2 weeks if missed entirely — bench/squat progression at risk
 - Garmin sync issue flagged — user to check manually
+- Note for file housekeeping: standardized all consultation notes to YYYY-MM-DD-consultation.md format, split multi-day batch notes into individual sessions
