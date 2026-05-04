@@ -1,5 +1,5 @@
 # Consultation Notes
-Date: 2026-04-30 20:40:28
+Date: 2026-04-30
 
 ## Session 5 — April 30, 2026
 
@@ -32,6 +32,32 @@ Date: 2026-04-30 20:40:28
 - Seated row: cable row 45kg -> row machine 27.5kg
 - Catana: 20kg -> 17.5kg
 - Deadlift progression text updated to start at 100kg
+
+### 10-day training review (Apr 20-30)
+- 9 sessions in 11 days: 7 weights, 2 rides, 1 run
+- Pre-plan week (Apr 20-26) was high volume: 6 sessions including a double on Apr 25 (weights + 5k run)
+- Since plan started (Apr 27): 2 gym + 1 ride in 4 days — better pacing
+- FBW B was 22 min shorter than FBW A (1h07m vs 1h29m)
+- Total cycling: 118km across 2 rides (72km + 46km)
+
+### Recovery analysis
+- HRV trending strongly upward: 49ms (Apr 20, UNBALANCED) -> 72ms (Apr 30, BALANCED)
+- 7-day avg climbing from 49 to 59ms
+- RHR stable at 48bpm since Apr 28, spiked to 55 on Apr 24 (after 72km ride)
+- Sleep range: 6h32m to 8h10m
+- Late bedtimes (after midnight) correlate with shorter sleep and lower HRV next day
+- Apr 25 dip: HRV 46, RHR 53 — came after 72km ride + double session day (weights + run). Body flagged it but recovered.
+
+### Key observations shared with user
+- No overtraining risk, body adapting well
+- Main improvement lever: consistent bedtime before 23:00
+- Stacking ride + weights + run in 24h is too much — avoid doubles going forward
+- Skipped Tuesday pull-ups/mobility; user committed to Friday home calisthenics + pull-ups GTG
+
+### Friday plan discussion
+- User considered run vs home calisthenics
+- Recommended: pull-ups GTG throughout the day + optional evening run (compromise)
+- Pull-up volume matters more for gym goal progression (building toward 10 reps/set)
 
 ### Next steps
 - Friday: home calisthenics session (user committed to doing pull-ups)
