@@ -33,7 +33,7 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly. Applie
 
 | # | Exercise | Sets x Reps | Weight | Rest | Notes |
 |---|----------|-------------|--------|------|-------|
-| 1 | Back Squat | 2(+1)x5 | 90kg | 3 min | Add 2.5kg/week. Alt: leg press |
+| 1 | Back Squat | 2(+1)x5 | 90kg | 3 min | Add 2.5kg/week. Alt: leg press (low foot placement) |
 | 2 | Lat Pull Down | 2(+1)x8 | 50kg | 90s | Vertical pull. Alt: pull-ups or chin-ups |
 | 3 | Dumbbell Bench Press | 2(+1)x6 | 30kg | 2 min | Alt: barbell flat bench |
 | 4 | Seated Cable Row | 2(+1)x8 | 27.5kg | 90s | Alt: single arm dumbbell row |
@@ -83,7 +83,7 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly. Applie
 
 | # | Exercise | Sets x Reps | Weight | Rest | Notes |
 |---|----------|-------------|--------|------|-------|
-| 1 | Deadlift | 2(+1)x5 | 100kg | 3 min | Add 2.5kg/week if back feels good |
+| 1 | Deadlift | 2(+1)x5 | 100kg | 3 min | Add 2.5kg/week if back feels good. Alt: leg press (high foot placement), DB RDL |
 | 2 | Pull-ups | 2(+1)x5 | BW | 2 min | Progress toward 2x10. Alt: lat pull down |
 | 3 | Incline Barbell Bench Press | 2(+1)x8 | 50kg | 90s | Alt: flat barbell or incline DB |
 | 4 | Seated Cable Row | 2(+1)x8 | 27.5kg | 90s | Alt: single arm dumbbell row |
