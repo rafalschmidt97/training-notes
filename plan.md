@@ -1,7 +1,7 @@
 # Training Plan — Wedding Prep Phase 1 (Rebuild)
 *Created: April 26, 2026 | Review: June 2026*
 
-Current levels: Bench ~70kg x7, Squat ~80kg x6, Pull-ups 7 BW, DB Shoulder Press 20kg x8, Deadlift 100kg x5 (low back injury history)
+Current levels: Bench ~70kg x7, Squat ~90kg x6, Pull-ups 7 BW, DB Shoulder Press 20kg x8, Deadlift 100kg x5 (low back injury history)
 
 ## Gym Warmup (~8 min)
 
@@ -33,13 +33,14 @@ Skip if rushed. The Tuesday mobility routine covers this more thoroughly. Applie
 
 | # | Exercise | Sets x Reps | Weight | Rest | Notes |
 |---|----------|-------------|--------|------|-------|
-| 1 | Back Squat | 2(+1)x5 | 80kg | 3 min | Add 2.5kg/week. Alt: leg press |
+| 1 | Back Squat | 2(+1)x5 | 90kg | 3 min | Add 2.5kg/week. Alt: leg press |
 | 2 | Lat Pull Down | 2(+1)x8 | 50kg | 90s | Vertical pull. Alt: pull-ups or chin-ups |
 | 3 | Dumbbell Bench Press | 2(+1)x6 | 30kg | 2 min | Alt: barbell flat bench |
 | 4 | Seated Cable Row | 2(+1)x8 | 27.5kg | 90s | Alt: single arm dumbbell row |
 | 5a | Cable Lateral Raise | 2x10 | 5kg | superset | Alt: dumbbell lateral raise |
 | 5b | Standing Barbell Curl | 2x6 | 25kg | 90s | Alt: dumbbell curl |
-| 6 | Cable Crunch | 2x8 | 25kg | 60s | Alt: hanging knee raise |
+| 6 | Reverse Arm Extension | 2x10 | 21kg | 60s | Tricep. Alt: rope pushdown |
+| 7 | Cable Crunch | 2x8 | 25kg | 60s | Alt: hanging knee raise |
 | * | Leg Extension (optional) | 2x8 | 40kg | 60s | Do if time allows |
 
 2(+1) = 2 mandatory sets + 1 optional if you have energy/time. No overhead press — front delts are covered by bench pressing. If both cable and dumbbells are busy for lateral raise, substitute Dumbbell Shoulder Press 2(+1)x8 @ 20kg.
